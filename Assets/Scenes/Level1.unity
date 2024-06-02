@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.0007787092, g: 0.0041236565, b: 0.019990839, a: 1}
+  m_IndirectSpecularColor: {r: 0.00077867036, g: 0.0041233166, b: 0.019989327, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -173,8 +173,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &13217313
 TerrainCollider:
@@ -271,8 +271,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &140778168
 TerrainCollider:
@@ -369,8 +369,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &215420297
 TerrainCollider:
@@ -517,8 +517,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &278458444
 TerrainCollider:
@@ -615,8 +615,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &299647565
 TerrainCollider:
@@ -881,8 +881,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &605516403
 TerrainCollider:
@@ -1091,8 +1091,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &736006261
 TerrainCollider:
@@ -1234,7 +1234,7 @@ Transform:
   - {fileID: 1199277930920605147}
   - {fileID: 8997051405168234461}
   m_Father: {fileID: 4207293302598931}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!850595691 &845213963
 LightingSettings:
@@ -1348,8 +1348,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &899485148
 TerrainCollider:
@@ -1478,8 +1478,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &1282567643
 TerrainCollider:
@@ -1717,8 +1717,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &1567364382
 TerrainCollider:
@@ -1943,8 +1943,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &1649451877
 TerrainCollider:
@@ -2044,8 +2044,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &1664599010
 TerrainCollider:
@@ -2401,8 +2401,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &1901738928
 TerrainCollider:
@@ -2530,8 +2530,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &2102118988
 TerrainCollider:
@@ -2628,8 +2628,8 @@ MonoBehaviour:
   _stepPrint: {fileID: 2800000, guid: e082595a3731e8b4a9e589400ea30300, type: 3}
   _snowMaterial: {fileID: 2100000, guid: 47296ca0652c0b64791bd6beca0c7913, type: 2}
   _trailsPositions:
-  - {fileID: 940226711977861019}
-  - {fileID: 1333599128701657259}
+  - {fileID: 7527646123063888115}
+  - {fileID: 7527646123063888115}
   _drawDistance: 0.1
 --- !u!154 &2107971500
 TerrainCollider:
@@ -2798,14 +2798,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1773622926898875}
   m_LocalRotation: {x: -0, y: -0.73073727, z: -0, w: 0.68265885}
-  m_LocalPosition: {x: 6.6667747, y: 0.006000042, z: 13.442121}
+  m_LocalPosition: {x: 6.6667747, y: 0.273, z: 13.442121}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 4490257748052723}
   - {fileID: 4464630900511321}
   - {fileID: 4773208373828831}
   - {fileID: 840027045}
-  - {fileID: 4490257748052723}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: -93.896, z: 0}
@@ -2822,8 +2822,9 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8327987931453844553}
+  - {fileID: 4777606742835572}
   m_Father: {fileID: 4207293302598931}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4490257748052723
 Transform:
@@ -2833,12 +2834,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1593727925060495}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.4880003, z: 0}
+  m_LocalPosition: {x: 0, y: 1.4880004, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 4520319047075178}
   m_Father: {fileID: 4207293302598931}
-  m_RootOrder: 3
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4520319047075178
 Transform:
@@ -2847,12 +2849,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1175331701296888}
-  m_LocalRotation: {x: -0.3618273, y: 0.60752034, z: 0.60752034, w: 0.36182743}
-  m_LocalPosition: {x: 0.0036929445, y: 0.09289999, z: -0.0020005368}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0.057085574, y: -0.033998698, z: 0.5144534, w: -0.8549404}
+  m_LocalPosition: {x: 0.27903104, y: -0.3904544, z: 0.5793505}
+  m_LocalScale: {x: 0.9992076, y: 1.0007842, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 4777606742835572}
+  m_Father: {fileID: 4490257748052723}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4773208373828831
@@ -2868,7 +2870,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4207293302598931}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4777606742835572
 Transform:
@@ -2877,14 +2879,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1002703071302636}
-  m_LocalRotation: {x: 0.2473397, y: 0.57911235, z: -0.41252795, w: -0.6582345}
-  m_LocalPosition: {x: -0.04179394, y: -0.02390478, z: 0.035840474}
-  m_LocalScale: {x: 1, y: 1.0017613, z: 1.1089349}
+  m_LocalRotation: {x: 0.0031999047, y: 0.6585546, z: 0.7525193, w: 0.0032002325}
+  m_LocalPosition: {x: 0.28279984, y: 0.23400043, z: 0.4874003}
+  m_LocalScale: {x: 1, y: 1.0017613, z: 1.1089351}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 4520319047075178}
-  m_Father: {fileID: 3670568876835558115}
-  m_RootOrder: 0
+  m_Children: []
+  m_Father: {fileID: 4464630900511321}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: -82.363, y: 3.897, z: 176.103}
 --- !u!20 &20437472789709729
 Camera:
@@ -3643,7 +3644,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3411708136831229320}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.8094361e-11, y: 0.0784396, z: -2.0653047e-11}
+  m_LocalPosition: {x: 0, y: -0.243, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3870,7 +3871,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4112189148097544294}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.4516897e-10, y: 0.07753454, z: -5.1183e-11}
+  m_LocalPosition: {x: -0, y: -0.217, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4560,8 +4561,7 @@ Transform:
   m_LocalPosition: {x: 0.00007219092, y: 0.029935794, z: -3.703326e-10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 4777606742835572}
+  m_Children: []
   m_Father: {fileID: 6595630064303506648}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6571,7 +6571,7 @@ GameObject:
   - component: {fileID: 8327987931453844553}
   - component: {fileID: 744690268}
   m_Layer: 0
-  m_Name: Ch01_nonPBR@Idle (1)
+  m_Name: PlayerFigure
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

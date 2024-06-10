@@ -4,8 +4,22 @@ using UnityEngine;
 
 public class BatterySpawn : MonoBehaviour
 {
-    [SerializeField] GameObject gameObject;
+    [SerializeField] GameObject batteryPrefabs;
     public List<Transform> TransformList;
 
+    private void Start()
+    {
+        SpawnBattery();
+    }
 
-}//class
+    public void SpawnBattery()
+    {
+        int a = 0;
+        while (a < TransformList.Count)
+        {
+            Instantiate(batteryPrefabs, TransformList[a].position, Quaternion.identity);
+            a++;
+        }
+        Debug.Log("Bataryalar Spawnlandý");
+    }
+}
